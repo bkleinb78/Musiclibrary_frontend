@@ -4,7 +4,7 @@
     margin: auto;
     flex-direction: column;
     border-radius: 20px;
-    background-color: black;
+    background-color: #5285ad;
 }
 
 .addSong-title {
@@ -24,7 +24,7 @@
     padding-left: 0.8rem;
     padding-right: 0.4rem;
     font-size: large;
-    color: darkolivegreen;
+    color: white;
   }
   
   .button-contain {
@@ -36,8 +36,8 @@
   }
   
   .add-button {
-    border: solid darkolivegreen;
-    background-color: darkolivegreen;
+    border: solid black;
+    background-color: white;
     font-weight: bold;
     border-radius: 10px;
   }

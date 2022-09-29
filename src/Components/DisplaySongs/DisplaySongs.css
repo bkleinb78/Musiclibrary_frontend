@@ -45,8 +45,8 @@
   }
   
   .header-row {
-    color: darkolivegreen;
-    background-color: black;
+    color: white;
+    background-color: #5285ad;
   }
   
   .header-row th {
@@ -55,7 +55,7 @@
   }
   
   .display-rows {
-    background-color: darkkhaki;
+    background-color: white;
   }
   
   .display-rows td {
@@ -69,7 +69,7 @@
   
   .delete-button {
     border: 2px solid;
-    background-color: darkolivegreen;
+    background-color: white;
     font-weight: bold;
     border-radius: 10px;
   }

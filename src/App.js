@@ -36,8 +36,8 @@ function App() {
   return (
     <div className='page-container'>
       <div><NavBar/></div>
-      <div><DisplaySongs displaySongs = {songs} deleteSongProp = {deleteSong}/></div> 
       <div className='content-wrap'><CreateSong addNewSong={createSong}/></div>
+      <div><DisplaySongs displaySongs = {songs} deleteSongProp = {deleteSong}/></div> 
       <div><Footer/></div>
     </div>
   );

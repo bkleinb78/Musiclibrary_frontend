@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="song-footer">
         <div className="copy-right">
-            <medium className='copy-color'>&copy;{new Date().getFullYear()} FRM ABVE PLAYLIST</medium> | Lets HUNT
+            <medium className='copy-color'>&copy;{new Date().getFullYear()} ALTERNATIVE RADIO PLAYLIST</medium>
         </div>
     </div>
 
